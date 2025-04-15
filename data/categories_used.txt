@@ -1,0 +1,4 @@
+comp.graphics
+rec.sport.baseball
+sci.med
+talk.politics.misc
