@@ -5,7 +5,7 @@ An NLP-based machine learning project that classifies news articles into predefi
 ---
 
 ## 🚀 Live Demo
-[Click to Try the App](https://your-name.streamlit.app)  
+[Click to Try the App](https://utkarsh-news-category-classifier.streamlit.app/)  
 _(Replace with your Streamlit Cloud URL after deployment)_
 
 ---
